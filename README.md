@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Lowell0803
+- 🎓 I'm currently enrolled in a degree program for "Bachelor of Science in Mathematics, Major in Computer Science"
 - 👀 I’m interested in Software Development
 - 🌱 I’m well-versed in Python
 - 💞️ I’m willing to collaborate on desktop application projects
+- 📚 Read my academic papers here: https://independent.academia.edu/YvanLowellTAquino
 - 📫 How to reach me: aquino.ylt@gmail.com
 
 <!---
