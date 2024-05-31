@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lowell0803
 - 👀 I’m interested in Software Development
 - 🌱 I’m well-versed in Python
-- 💞️ I’m willing to collaborate on beginner desktop application projects
+- 💞️ I’m willing to collaborate on desktop application projects
 - 📫 How to reach me: aquino.ylt@gmail.com
 
 <!---
