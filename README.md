@@ -47,9 +47,7 @@
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
         </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-        </a>
+        
       </td>
     </tr>
     <tr>
@@ -67,7 +65,7 @@
       </td>
     </tr>
     <tr>
-      <td><strong>Mobile & Hybrid Apps</strong></td>
+      <td><strong>Mobile App Development</strong></td>
       <td>
         <a href="https://developer.android.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -81,35 +79,28 @@
       </td>
     </tr>
     <tr>
-      <td><strong>Programming Languages</strong></td>
+      <td><strong>Others</strong></td>
       <td>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        </a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         </a>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
         </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Embedded & IoT</strong></td>
-      <td>
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
         </a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Game Development</strong></td>
-      <td>
         <a href="https://unity.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
         </a>
       </td>
+      <td>
+  
     </tr>
+
   </table>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lowell0803&show_icons=true&locale=en&layout=compact" alt="lowell0803" />
-</p>
