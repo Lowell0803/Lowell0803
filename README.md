@@ -47,7 +47,6 @@
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
         </a>
-        
       </td>
     </tr>
     <tr>
@@ -97,10 +96,6 @@
           <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
         </a>
       </td>
-      <td>
-  
     </tr>
-
   </table>
 </div>
-
