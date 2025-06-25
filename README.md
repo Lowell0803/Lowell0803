@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lowell0803&label=Profile%20views&color=0e75b6&style=flat" alt="lowell0803" /> </p>
 
-- 🔭 I’m currently working on **Tanikala**
+- 🔭 I’m currently working on **a personal project**
 
 - 🌱 I’m currently learning **Front-end Designing and Java**
 
