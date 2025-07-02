@@ -15,13 +15,14 @@
 - 📫 Contact me at [aquino.ylt@gmail.com](mailto:aquino.ylt@gmail.com)
 
 <!-- two‑column layout: 30% repos, 70% preview + skills -->
-<table>
+<table style="width:100%; table-layout:fixed;">
   <tr>
-    <td width="30%" valign="top">
+    <!-- 30% column for repos -->
+    <td valign="top" style="width:30%; padding-right:16px;">
       <h2>🔭 Portfolio</h2>
-      <table cellpadding="12" cellspacing="0" style="border-collapse:collapse;width:100%">
+      <table cellpadding="12" cellspacing="0" style="border:1px solid #444; border-collapse:collapse; width:100%;">
         <tr>
-          <td align="center" style="border:1px solid #ddd;">
+          <td align="center" style="border-bottom:1px solid #444;">
             <a href="https://github.com/YOUR_USERNAME/meta-projects" style="text-decoration:none;color:inherit;">
               <p style="margin:0;font-size:24px;">📦</p>
               <p style="margin:4px 0 8px;"><strong>meta‑projects</strong></p>
@@ -30,7 +31,7 @@
           </td>
         </tr>
         <tr>
-          <td align="center" style="border:1px solid #ddd;">
+          <td align="center">
             <a href="https://github.com/YOUR_USERNAME/personal-site" style="text-decoration:none;color:inherit;">
               <p style="margin:0;font-size:24px;">🌐</p>
               <p style="margin:4px 0 8px;"><strong>personal‑site</strong></p>
@@ -40,10 +41,15 @@
         </tr>
       </table>
     </td>
-    <td width="70%" valign="top" style="padding-left:32px;">
+    <!-- 70% column for preview + skills -->
+    <td valign="top" style="width:70%; padding-left:16px;">
       <h2>🖼️ Project Preview</h2>
       <p align="center">
-        <img src="img/projects.gif" alt="Project Carousel" style="width:100%;border:1px solid #ddd;border-radius:4px;"/>
+        <img
+          src="img/projects.gif"
+          alt="Project Carousel"
+          style="width:100%; border:1px solid #444; border-radius:4px;"
+        />
       </p>
       <h2>🛠 Skills</h2>
       <p>
