@@ -2,7 +2,7 @@
   <img src="img/profile-cover.gif" alt="Profile Cover" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=abcdef&size=24&height=60&duration=3000&pause=1000&lines=Hello+there!;I'm+Yvan.;How+you+doin%3F;"
@@ -11,32 +11,18 @@
   </a>
 </p>
 
-## 👋 About Me
-<table>
-  <tr>
-    <td valign="top">
+## <img src="img/wave.gif" alt="👋" width="24"/> About Me
+
+<img src="img/coding.gif" alt="Coding Animation" align="right" width="130"/>
+
 - 💼 I'm awaiting Job Training in CISSL Philippine Branch  
 - 💬 Talk to me about software development and pure mathematics  
 - 👯 I’m looking to collaborate on software dev projects  
 - 📫 Contact me at [aquino.ylt@gmail.com](mailto:aquino.ylt@gmail.com)
-    </td>
-    <td valign="top" align="center">
-      <img src="img/coding.gif" alt="Coding Animation" width="200" />
-    </td>
-  </tr>
-</table>
+- 📫 Check out my meta-repositories here: [meta-repositories]()
+- My personal site is: under-construction
 
-
-## 🖼️ Project Preview
-<p align="center">
-  <img
-    src="img/projects.gif"
-    alt="Project Carousel"
-    style="width:100%; border:1px solid #444; border-radius:4px;"
-  />
-</p>
-
-## 🛠 Skills
+## <img src="img/bulb.gif" alt="💡" width="24"/> Skills
 <p>
   <img alt="HTML"     src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
   <img alt="CSS"      src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
@@ -52,6 +38,13 @@
   <img alt="AWS"      src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws"/>
 </p>
 
-| <div style="width:700px">property</div> | description                           |
-| --------------------------------------- | ------------------------------------- |
-| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
+## <img src="img/settings.gif" alt="⚙️" width="24"/> Project Preview
+<p align="center">
+  <img
+    src="img/projects.gif"
+    alt="Project Carousel"
+    style="width:100%; border:1px solid #444; border-radius:4px;"
+  />
+</p>
+
+
