@@ -15,12 +15,15 @@
 
 <img src="img/coding.gif" alt="Coding Animation" align="right" width="260"/>
 
-- 💼 I'm awaiting Job Training in CISSL Philippine Branch  
-- 💬 Talk to me about software development and pure mathematics  
-- 👯 I’m looking to collaborate on software dev projects  
-- 📫 Contact me at [aquino.ylt@gmail.com](mailto:aquino.ylt@gmail.com)
-- 📫 Check out my meta-repositories here: [meta-repositories]()
-- My personal site is: under-construction
+<ul type="none">
+  <li>💼 I'm awaiting Job Training in CISSL Philippine Branch</li>
+  <li>💬 Talk to me about software development and pure mathematics</li>
+  <li>👯 I’m looking to collaborate on software dev projects</li>
+  <li>📫 Contact me at <a href="mailto:aquino.ylt@gmail.com">aquino.ylt@gmail.com</a></li>
+  <li>📂 Check out my meta-repositories here: <a href="#">meta-repositories</a></li>
+  <li>🌐 My personal site is <b>under construction</b>.</li>
+</ul>
+
 
 ## <img src="img/bulb.gif" alt="💡" width="24"/> Skills
 <p>
@@ -48,5 +51,3 @@
     style="width:100%; border:1px solid #444; border-radius:4px;"
   />
 </p>
-
-
