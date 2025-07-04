@@ -20,7 +20,6 @@
   <li>💬 Talk to me about software development and pure mathematics</li>
   <li>👯 I’m looking to collaborate on software dev projects</li>
   <li>📫 Contact me at <a href="mailto:aquino.ylt@gmail.com">aquino.ylt@gmail.com</a></li>
-  <li>📂 Check out my meta-repositories here: <a href="#">meta-repositories</a></li>
   <li>🌐 My personal site is <b>under construction</b>.</li>
 </ul>
 
