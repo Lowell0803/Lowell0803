@@ -15,10 +15,13 @@
 - 📫 Contact me at [aquino.ylt@gmail.com](mailto:aquino.ylt@gmail.com)
 
 <!-- two‑column layout: 30% repos, 70% preview + skills -->
-<table style="width:100%; table-layout:fixed;">
+<table width="100%" style="table-layout: fixed;">
+  <colgroup>
+    <col width="30%">
+    <col width="70%">
+  </colgroup>
   <tr>
-    <!-- LEFT: 30% -->
-    <td style="width:30%; vertical-align:top; padding-right:16px;">
+    <td valign="top" style="padding-right: 16px;">
       <h2>🔭 Portfolio</h2>
       <table cellpadding="12" cellspacing="0" style="border:1px solid #444; border-collapse:collapse; width:100%;">
         <tr>
@@ -42,7 +45,7 @@
       </table>
     </td>
     <!-- RIGHT: 70% -->
-    <td style="width:70%; vertical-align:top; padding-left:16px;">
+    <td valign="top" style="padding-left: 16px;">
       <h2>🖼️ Project Preview</h2>
       <p align="center">
         <img src="img/projects.gif"
