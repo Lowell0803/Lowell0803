@@ -12,32 +12,20 @@
 </p>
 
 ## 👋 About Me
+<table>
+  <tr>
+    <td valign="top">
 - 💼 I'm awaiting Job Training in CISSL Philippine Branch  
 - 💬 Talk to me about software development and pure mathematics  
 - 👯 I’m looking to collaborate on software dev projects  
 - 📫 Contact me at [aquino.ylt@gmail.com](mailto:aquino.ylt@gmail.com)
-
-## 🔭 Portfolio
-<table width="100%" cellpadding="12" cellspacing="0" style="border:1px solid #444; border-collapse:collapse;">
-  <tr>
-    <td align="center" style="border-bottom:1px solid #444;">
-      <a href="https://github.com/YOUR_USERNAME/meta-projects" style="text-decoration:none; color:inherit;">
-        <p style="margin:0; font-size:24px;">📦</p>
-        <p style="margin:4px 0 8px;"><strong>meta‑projects</strong></p>
-        <p style="margin:0; font-size:14px;">A dashboard‑style index of all my GitHub projects with links and short intros.</p>
-      </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/YOUR_USERNAME/personal-site" style="text-decoration:none; color:inherit;">
-        <p style="margin:0; font-size:24px;">🌐</p>
-        <p style="margin:4px 0 8px;"><strong>personal‑site</strong></p>
-        <p style="margin:0; font-size:14px;">My portfolio & blog built with Next.js, Tailwind CSS, and dark‑mode support.</p>
-      </a>
+    <td valign="top" align="center">
+      <img src="img/coding.gif" alt="Coding Animation" width="200" />
     </td>
   </tr>
 </table>
+
 
 ## 🖼️ Project Preview
 <p align="center">
@@ -63,3 +51,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
   <img alt="AWS"      src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws"/>
 </p>
+
+| <div style="width:700px">property</div> | description                           |
+| --------------------------------------- | ------------------------------------- |
+| `border-bottom-right-radius`            | Defines the shape of the bottom-right |
