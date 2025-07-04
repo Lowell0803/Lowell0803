@@ -15,15 +15,13 @@
 - 📫 Contact me at [aquino.ylt@gmail.com](mailto:aquino.ylt@gmail.com)
 
 <!-- two‑column layout: 30% repos, 70% preview + skills -->
-<table width="100%" style="table-layout: fixed;">
-  <colgroup>
-    <col width="30%">
-    <col width="70%">
-  </colgroup>
+<!-- two‑column layout: 30% repos, 70% preview + skills -->
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <td valign="top" style="padding-right: 16px;">
+    <!-- LEFT: 30% -->
+    <td width="30%" valign="top" style="padding-right:16px;">
       <h2>🔭 Portfolio</h2>
-      <table cellpadding="12" cellspacing="0" style="border:1px solid #444; border-collapse:collapse; width:100%;">
+      <table width="100%" cellpadding="12" cellspacing="0" style="border:1px solid #444; border-collapse:collapse;">
         <tr>
           <td align="center" style="border-bottom:1px solid #444;">
             <a href="https://github.com/YOUR_USERNAME/meta-projects" style="text-decoration:none; color:inherit;">
@@ -45,7 +43,7 @@
       </table>
     </td>
     <!-- RIGHT: 70% -->
-    <td valign="top" style="padding-left: 16px;">
+    <td width="70%" valign="top" style="padding-left:16px;">
       <h2>🖼️ Project Preview</h2>
       <p align="center">
         <img src="img/projects.gif"
