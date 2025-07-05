@@ -13,7 +13,7 @@
 
 ## <img src="img/wave.gif" alt="👋" width="24"/> About Me
 
-<img src="img/coding.gif" alt="Coding Animation" align="right" width="260"/>
+<img src="img/coding.gif" alt="Coding Animation" align="right" width="300"/>
 
 <ul type="none">
   <li>💼 I'm awaiting Job Training at CISSL Philippine Branch</li>
