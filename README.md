@@ -20,7 +20,7 @@
   <li>💬 Talk to me about software development and pure mathematics</li>
   <li>👯 I’m looking to collaborate on software dev projects</li>
   <li>📫 Contact me at <a href="mailto:aquino.ylt@gmail.com">aquino.ylt@gmail.com</a></li>
-  <li>🌐 My personal site is <b><a href="https://yvanlowellaquino.vercel.app/">here</a></b>.</li>
+  <li>🌐 <b>Check out my personal site <a target="_blank" rel="noopener noreferrer" href="https://yvanlowellaquino.vercel.app/">here</a>.</b></li>
 </ul>
 
 
