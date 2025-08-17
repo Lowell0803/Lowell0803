@@ -20,11 +20,12 @@
   <li>💬 Talk to me about software development and pure mathematics</li>
   <li>👯 I’m looking to collaborate on software dev projects</li>
   <li>📫 Contact me at <a href="mailto:aquino.ylt@gmail.com">aquino.ylt@gmail.com</a></li>
-  <li>🌐 <b>Check out my personal site <a target="_blank" rel="noopener noreferrer" href="https://yvanlowellaquino.vercel.app/">here</a>.</b></li>
+  <li>🌐 <b>Check out my personal site <a target="_blank" rel="noopener noreferrer" href="https://yvanlowellaquino.vercel.app/">here</a></b></li>
+  <li>☕ Buy me a coffee <a href="https://buymeacoffee.com/yvanlowellaquino">here</a></li>
 </ul>
 
-
 ## <img src="img/bulb.gif" alt="💡" width="24"/> Skills
+
 <p>
   <img alt="HTML5"        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3"         src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
@@ -44,6 +45,7 @@
 </p>
 
 ## <img src="img/settings.gif" alt="⚙️" width="24"/> Project Preview
+
 <p align="center">
   <img
     src="img/projects.gif"
