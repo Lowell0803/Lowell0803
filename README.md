@@ -16,7 +16,7 @@
 <img src="img/coding.gif" alt="Coding Animation" align="right" width="300"/>
 
 <ul type="none">
-  <li>💼 I'm awaiting Job Training at CISSL Philippine Branch</li>
+  <li>💼 I'm currently in Job Training at CISSL Philippine Branch</li>
   <li>💬 Talk to me about software development and pure mathematics</li>
   <li>👯 I’m looking to collaborate on software dev projects</li>
   <li>📫 Contact me at <a href="mailto:aquino.ylt@gmail.com">aquino.ylt@gmail.com</a></li>
